@@ -1,4 +1,4 @@
-#Quik Score
+# Quik Score
 A Cricket API that provides data from Cricbuzz
 
 * News - Get news headlines : `GET /news`
